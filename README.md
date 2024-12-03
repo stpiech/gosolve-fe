@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Config
+
+Configure your backend URL in `src/config.js`
 
 ## Available Scripts
 
